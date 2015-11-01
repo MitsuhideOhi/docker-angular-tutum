@@ -1,0 +1,30 @@
+{
+  "name": "docker-angular-tutum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitsuhideOhi/docker-angular-tutum.git"
+  },
+  "keywords": [
+    "docker",
+    "angular",
+    "tutum"
+  ],
+  "author": "MitsuhideOhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MitsuhideOhi/docker-angular-tutum/issues"
+  },
+  "homepage": "https://github.com/MitsuhideOhi/docker-angular-tutum#readme",
+  "dependencies": {
+    "compression": "^1.6.0",
+    "errorhandler": "^1.4.2",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}
